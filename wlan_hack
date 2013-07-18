@@ -1,0 +1,45 @@
+wlan_hack
+
+Landkarten gibt es unter http://www.nodedb.com/
+http://www.sonar-security.com/
+
+MiniStubler http://www.netstumbler.com/
+
+Access-Points zu
+suchen. Unter anderem gibt es wavemon
+
+abhören des Netzwerkverkehrs Ethereal (http://www.ethereal.com/)
+CENiffer (http://www.epiphan.com/products_ceniffer.html
+'Ethereal' (http://www.ethereal.com/
+Linux bietet Airsnort (http://airsnort.shmoo.com/
+
+Mehr über MACAdressen
+und deren Vergabe unter http://www.cavebear.com/CaveBear/Ethernet/
+
+Tool 'SMAC' http://www.klcconsulting.net/
+
+Linux
+ifconfig eth1
+ifconfig eth1 down
+ifconfig hw ether 00:02:5C:11:2B:FA
+ifconfig eth1 up
+
+http://www.wildpackets.com/products/airopeek/
+http://www.wildpackets.com/products/etherpeek/
+http://www.epiphan.com/products_ceniffer.html
+http://www.macstumbler.com/
+http://homepage.mac.com/alfwatt/istumbler/
+http://www.binaervarianz.de/projekte/programmieren/kismac/
+http://www.dopesquad.net/security/
+http://www.freeswan.org/
+http://www.bastard.net/~Ekos/wifi/
+http://www.kismetwireless.net/
+http://chocobospore.org/mognet/
+
+http://chocobospore.org/mognet/
+http://802.11ninja.net
+http://www.thehackerschoice.com
+http://prismstumbler.sourceforge.net/
+http://www.remote-exploit.org/
+
+
